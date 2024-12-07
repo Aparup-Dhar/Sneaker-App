@@ -9,7 +9,7 @@ Users can explore sneakers in style with engaging carousels and interact with 3D
 
 `▪ Smooth Navigation: Easy-to-use interface powered by google_nav_bar for seamless navigation`
 
-`▪ Sneaker Showcase: Browse a wide collection of sneakers with visually engaging carousels using the carousel_slider package`
+`▪ Sneaker Showcase: Visually engaging carousels using the carousel_slider package`
   
 `▪ 3D Sneaker View: Interact with detailed 3D models of sneakers using model_viewer_plus`
 
