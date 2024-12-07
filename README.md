@@ -1,16 +1,23 @@
-# flutter_gnav
+# Title
+Sneaker App Flutter
 
-A new Flutter project.
+# Description
+The Sneaker App offers a seamless experience for sneaker enthusiasts, featuring a sleek interface with smooth navigation.
+Users can explore sneakers in style with engaging carousels and interact with 3D models for a detailed view.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+`▪ Smooth Navigation: Easy-to-use interface powered by google_nav_bar for seamless navigation`
 
-A few resources to get you started if this is your first Flutter project:
+`▪ Sneaker Showcase: Browse a wide collection of sneakers with visually engaging carousels using the carousel_slider package`
+  
+`▪ 3D Sneaker View: Interact with detailed 3D models of sneakers using model_viewer_plus`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Technologies Used
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+https://github.com/user-attachments/assets/0d5bb0f5-06e5-483e-bcf6-92686721177c
+
